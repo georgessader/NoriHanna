@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.norihannaarticles",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 73,
+      "versionName": "1.0",
+      "outputFile": "NoriHanna.apk"
+    }
+  ],
+  "elementType": "File"
+}
