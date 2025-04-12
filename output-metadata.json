@@ -11,8 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 81,
-      "fileId": "1jzVK4sRCIlV-XWiPl3onk1_y6IK8dlNH",
+      "versionCode": 116,
+      "fileId":"1o5YUCrXUgcHQD7f0wfljIUS8BsjOI_m7",
+      "log":"1- add tab for data\n2- add progress bar for update\n3- show speed and downloaded size",
       "versionName": "1.0",
       "outputFile": "NoriHanna.apk"
     }
