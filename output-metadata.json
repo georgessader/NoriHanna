@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 132,
-      "fileId":"1T1SnyJcyIIK0vqK2S8aFc6CH7wq7Rvi9",
-      "log":"1- New update page\n2- Download logs and button if update available\n3- Shows download progress",
+      "versionCode": 152,
+      "fileId":"19wUP7DjJzYJpEm7gDovd3Xizer1LUU5x",
+      "log":"1- New update\n2- Rev 10, 11, and 12 added to the Audio\n3- Shows download progress",
       "versionName": "1.0",
       "outputFile": "NoriHanna.apk"
     }
